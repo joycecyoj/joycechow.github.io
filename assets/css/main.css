@@ -2240,7 +2240,7 @@ input[type='button']:disabled,
   margin: 0;
 }
 #header > footer .icons li a {
-  color: #b7eadc;
+  color: #d2f2e9;
 }
 #header > nav {
   -moz-flex-grow: 1;
@@ -2254,7 +2254,7 @@ input[type='button']:disabled,
   padding: 0;
 }
 #header > nav ul li {
-  border-top: solid 2px #b7eadc;
+  border-top: solid 2px #d2f2e9;
   display: block;
   padding: 0;
 }
