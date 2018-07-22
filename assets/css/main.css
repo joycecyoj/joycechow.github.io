@@ -1980,3 +1980,14 @@ input[type="button"],
   input[type="button"],
   .button {
     padding: 0; } }
+
+  /*Font awesome buttons For Projects*/
+
+	.space-button {
+		margin-left: 5%;
+	}
+
+	.project-button:hover {
+		border-color: #000;
+		color: #000 !important;
+	}
