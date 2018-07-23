@@ -2254,7 +2254,7 @@ input[type='button']:disabled,
   padding: 0;
 }
 #header > nav ul li {
-  border-top: solid 2px #DED3E9;
+  border-top: solid 1.6px #DED3E9;
   display: block;
   padding: 0;
 }
